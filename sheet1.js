@@ -12,4 +12,4 @@ a =8; // Assigning a variable
 
 b = a // This assigns the contens of a to b variable
 
-console.log(b)
+console.log(b);
