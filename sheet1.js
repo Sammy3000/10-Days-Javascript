@@ -14,3 +14,11 @@ b = a // This assigns the contens of a to b variable
 
 console.log(b);
 
+// Constructing strings with variables
+let ourName = 'bsmart tech';
+
+
+//Object literals
+
+
+
