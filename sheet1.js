@@ -22,7 +22,8 @@ let ourName = 'bsmart tech';
 
 //Object literals
 let myStr = `${ourName} is one great company.`
- 
+console.log(myStr);
+
 
 
 
