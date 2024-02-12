@@ -16,11 +16,14 @@ console.log(b);
 
 // Constructing strings with variables
 let ourName = 'bsmart tech';
-let ourStr = 'This company is known as ' +ourName+ ' and it is doing great things.'
-console.log(ourStr);
+// let ourStr = 'This company is known as ' +ourName+ ' and it is doing great things.'
+// console.log(ourStr);
 
 
 //Object literals
+let myStr = `${ourName} is one great company.`
+ 
+
 
 
 
