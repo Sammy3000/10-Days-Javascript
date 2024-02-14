@@ -39,4 +39,14 @@ let sammu;
 let res = typeof(sammu);
 console.log(res);
 
+//local scope variables
+function Localee(){
+    var greetings = 'Hello';
+    console.log(greetings);
+}
+Localee()
+console.log(greetings);// Cannot print this line because var makes a variable local scoped
+
+
+
 
