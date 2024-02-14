@@ -53,6 +53,6 @@ function Localee(){
     console.log(greetings);
 }
 Localee()
-console.log(greetings);
+// console.log(greetings);
 
 
