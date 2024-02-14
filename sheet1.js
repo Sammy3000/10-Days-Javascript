@@ -47,6 +47,12 @@ function Localee(){
 Localee()
 //console.log(greetings);Cannot print this line because var makes a variable local scoped
 
-
+//global scope
+function Localee(){
+    greetings = 'Hey';
+    console.log(greetings);
+}
+Localee()
+console.log(greetings);
 
 
