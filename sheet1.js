@@ -23,7 +23,13 @@ let ourName = 'bsmart tech';
 let myStr = `${ourName} is one great company.`
 console.log(myStr);
 
+//functions
 
+function Calc(a,b,c){
+  let result;
+  result = a * b + c;
+}
+Calc(2,3,5);
 
 
 
