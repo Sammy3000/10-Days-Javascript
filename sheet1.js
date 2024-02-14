@@ -35,4 +35,8 @@ console.log(Calc(2,3,5));
 const nums = [[1,3,2],[5,56,9],[4,5,7,10]]
 console.log(nums[1][2]); // Should return 9 because we are accessing the second array and the third element
 
+let sammu;
+let res = typeof(sammu);
+console.log(res);
+
 
