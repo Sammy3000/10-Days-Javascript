@@ -26,11 +26,10 @@ console.log(myStr);
 //functions
 
 function Calc(a,b,c){
-  let result;
-  result = a * b + c;
+  let result = a * b + c;
   return result;
 }
-Calc(2,3,5);
+console.log(Calc(2,3,5));
 
 
 
