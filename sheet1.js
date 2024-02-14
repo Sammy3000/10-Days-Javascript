@@ -31,6 +31,8 @@ function Calc(a,b,c){
 }
 console.log(Calc(2,3,5));
 
+//Array within an array
+const nums = [[1,3,2],[5,56,9],[4,5,7,10]]
 
 
 
