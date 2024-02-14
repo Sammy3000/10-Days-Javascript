@@ -45,7 +45,7 @@ function Localee(){
     console.log(greetings);
 }
 Localee()
-console.log(greetings);// Cannot print this line because var makes a variable local scoped
+//console.log(greetings);Cannot print this line because var makes a variable local scoped
 
 
 
