@@ -28,6 +28,7 @@ console.log(myStr);
 function Calc(a,b,c){
   let result;
   result = a * b + c;
+  return result;
 }
 Calc(2,3,5);
 
