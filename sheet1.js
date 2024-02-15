@@ -62,4 +62,5 @@ const sentenseGenerator = (v1,v2)=>{
 
 }
 
+console.log(sentenseGenerator(Caren,food)); 
 
