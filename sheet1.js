@@ -62,5 +62,5 @@ const sentenseGenerator = (v1,v2)=>{
 
 }
 
-console.log(sentenseGenerator('Dominos','food')); 
+// console.log(sentenseGenerator('Dominos','food')); 
 
