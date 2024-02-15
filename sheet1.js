@@ -56,6 +56,10 @@ Localee()
 // console.log(greetings);
 
 
+const sentenseGenerator = (v1,v2)=>{
+    
+  return ` ${v1} likes wasting ${v2} `
 
+}
 
 
