@@ -77,4 +77,11 @@ function trueorFalse(age){
 }
 // console.log(trueorFalse(25));
 
+//Switch case
+function caseInSwitch(val){
+  
+}
+
+
+
 
