@@ -64,3 +64,16 @@ const sentenseGenerator = (v1,v2)=>{
 
 // console.log(sentenseGenerator('Dominos','food')); 
 
+//If statements functions plus boolean 
+
+function trueorFalse(age){
+   if(age===25){
+    return `You should be responsible`
+   }
+   if(age===35){
+    return `You are a role model`
+   }
+
+}
+
+
