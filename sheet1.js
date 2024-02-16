@@ -75,6 +75,6 @@ function trueorFalse(age){
    }
 
 }
-console.log(trueorFalse(25));
+// console.log(trueorFalse(25));
 
 
