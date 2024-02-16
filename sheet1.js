@@ -99,6 +99,8 @@ function caseInSwitch(val){
 
 }
 
+console.log(caseInSwitch(2));
+
 
 
 
