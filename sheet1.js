@@ -95,7 +95,7 @@ function caseInSwitch(val){
       break;
     }
     
-
+   return answer;
 
 }
 
