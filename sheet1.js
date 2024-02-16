@@ -75,5 +75,6 @@ function trueorFalse(age){
    }
 
 }
+console.log(trueorFalse(25));
 
 
