@@ -102,6 +102,7 @@ function caseInSwitch(val){
 // console.log(caseInSwitch(2));
 
 //Objects
+//Accessiong object properties using variables(Object destruction)
 
 
 
