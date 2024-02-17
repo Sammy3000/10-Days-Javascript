@@ -104,5 +104,11 @@ function caseInSwitch(val){
 //Objects
 //Accessiong object properties using variables(Object destruction)
 
+var testobj = {
+  12:'Namath',
+  16:'Montana',
+  19:'Unitas'
+}
+
 
 
