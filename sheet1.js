@@ -110,6 +110,6 @@ var testobj = {
   country:'Unitas'
 }
 
-
+let{name}=testobj
 
 
