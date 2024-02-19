@@ -112,4 +112,7 @@ var testobj = {
 
 let{name}=testobj
 
+// Methods
+// Map returns a new array for each element in an array
+
 
