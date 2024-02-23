@@ -124,6 +124,7 @@ let newresult = result.map(res=>res*5); // Returns a new array with each element
 //Creates a new array filled with elements that pass a test provided by a function
 
 const ages = [33,26,20,15,17,88,35,85,19];
+const adult = ages.filter(checkAdult)
 
 function checkAdult(age){
    return age>=18;
