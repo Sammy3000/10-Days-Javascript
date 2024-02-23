@@ -125,3 +125,7 @@ let newresult = result.map(res=>res*5); // Returns a new array with each element
 
 const ages = [33,26,20,15,17,88,35,85,19];
 
+function checkAdult(age){
+   return age>=18;
+}
+
