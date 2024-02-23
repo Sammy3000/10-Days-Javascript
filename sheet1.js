@@ -120,5 +120,7 @@ let newresult = result.map(res=>res*5); // Returns a new array with each element
 
 // console.log(newresult);
 
+//FIlter method
+//Creates a new array filled with elements that pass atest provided by a function
 
 
