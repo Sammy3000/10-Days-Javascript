@@ -118,5 +118,7 @@ let{name}=testobj
 let result = [54,65,58,99,88];
 let newresult = result.map(res=>res*5); // Returns a new array with each element multiplied by five
 
-console.log(newresult);
+// console.log(newresult);
+
+
 
