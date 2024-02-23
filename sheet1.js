@@ -130,3 +130,4 @@ function checkAdult(age){
    return age>=18;
 }
 
+console.log(adult);
