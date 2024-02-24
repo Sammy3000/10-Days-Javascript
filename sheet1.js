@@ -140,3 +140,4 @@ const ageTime = [5, 10, 18, 28];
 function checkAge(age) {
   return age > 18;
 }
+ const foundAge = ageTime.find(checkAge)
