@@ -141,3 +141,4 @@ function checkAge(age) {
   return age > 18;
 }
  const foundAge = ageTime.find(checkAge)
+ console.log(foundAge);
