@@ -131,3 +131,6 @@ function checkAdult(age){
 }
 
 // console.log(adult);
+
+
+
