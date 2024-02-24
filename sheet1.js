@@ -132,5 +132,6 @@ function checkAdult(age){
 
 // console.log(adult);
 
-
+//FInd method
+//The find() method is an iterative method. It calls a provided callbackFn function once for each element in an array in ascending-index order, until callbackFn returns a truthy value. find() then returns that element and stops iterating through the array. If callbackFn never returns a truthy value, find() returns undefined.
 
