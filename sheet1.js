@@ -150,4 +150,5 @@ function checkAge(age) {
 
 //The at() method is supported in all modern browsers since March 2022:
 
-
+const fruits = ["Banana", "Orange", "Apple", "Mango"];
+let fruit = fruits.at(2);
