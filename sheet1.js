@@ -152,5 +152,6 @@ function checkAge(age) {
 
 const fruits = ["Banana", "Orange", "Apple", "Mango"];
 // let fruit = fruits.at(2);
+let fruit = fruits[2]
 
 console.log(fruit);
