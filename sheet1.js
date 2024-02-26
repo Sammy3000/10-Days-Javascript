@@ -143,5 +143,11 @@ function checkAge(age) {
  const foundAge = ageTime.find(checkAge)
 //  console.log(foundAge);
 
+//at method
+// The at() method returns an indexed element from an array.
+
+// The at() method returns the same as [].
+
+//The at() method is supported in all modern browsers since March 2022:
 
 
