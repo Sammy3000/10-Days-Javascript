@@ -161,3 +161,7 @@ console.log(fruit);
 
 fruits.pop();
 console.log(fruits);
+
+//Array push method
+// Appends new element at the end of an array and returns new length
+
