@@ -155,3 +155,8 @@ const fruits = ["Banana", "Orange", "Apple", "Mango"];
 let fruit = fruits[2]
 
 console.log(fruit);
+
+// Array pop method
+//Removes the last item in an array and returns it
+
+fruits.pop();
