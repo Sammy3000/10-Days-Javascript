@@ -172,4 +172,4 @@ console.log(fruits);
 // Removes the first element of an array and returns it
 
 fruits.shift()
-
+console.log(fruits);
