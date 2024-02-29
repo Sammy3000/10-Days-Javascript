@@ -160,3 +160,4 @@ console.log(fruit);
 //Removes the last item in an array and returns it
 
 fruits.pop();
+console.log(fruit);
