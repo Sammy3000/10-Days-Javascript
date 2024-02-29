@@ -165,3 +165,5 @@ console.log(fruits);
 //Array push method
 // Appends new element at the end of an array and returns new length
 
+fruits.push('avocado','grape');
+
