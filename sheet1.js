@@ -177,4 +177,5 @@ console.log(fruits);
 //Unshift method
 //Add a new element at the beginning of an array and returns a new length
 
+fruits.unshift('Pineapple','coconut');
 
