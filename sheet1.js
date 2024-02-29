@@ -166,4 +166,4 @@ console.log(fruits);
 // Appends new element at the end of an array and returns new length
 
 fruits.push('avocado','grape');
-
+console.log(fruits);
