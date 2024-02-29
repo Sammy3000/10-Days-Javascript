@@ -179,3 +179,4 @@ console.log(fruits);
 
 fruits.unshift('Pineapple','coconut');
 
+console.log(fruits);
