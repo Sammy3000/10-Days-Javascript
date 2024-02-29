@@ -167,3 +167,8 @@ console.log(fruits);
 
 fruits.push('avocado','grape');
 console.log(fruits);
+
+//Array shift method 
+// Removes the first element of an array and returns it
+
+
