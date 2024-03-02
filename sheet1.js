@@ -183,3 +183,7 @@ console.log(fruits);
 
 //Strings in JS
 
+//strings can be created as primitives, from string literals, or as objects, using the String() constructor:
+
+
+
