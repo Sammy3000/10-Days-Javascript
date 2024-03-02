@@ -196,4 +196,4 @@ const string4 = new String("A String object");
 
 // First is the charAt() method.
 
-
+string1.charAt(3);
