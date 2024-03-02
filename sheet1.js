@@ -197,3 +197,7 @@ const string4 = new String("A String object");
 // First is the charAt() method.
 
 console.log(string1.charAt(3));
+
+// The other way is to treat the string as an array-like object, where individual characters correspond to a numerical index:
+
+console.log(string2[2]);
