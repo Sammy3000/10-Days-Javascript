@@ -201,3 +201,16 @@ console.log(string1.charAt(3));
 // The other way is to treat the string as an array-like object, where individual characters correspond to a numerical index:
 
 console.log(string2[2]);
+
+//Comparing strings
+
+const a1 = "a";
+const b1= "b";
+if (a1 < b1) {
+  // true
+  console.log(`${a1} is less than ${b1}`);
+} else if (a1 > b1) {
+  console.log(`${a1} is greater than ${b1}`);
+} else {
+  console.log(`${a1} and ${b1} are equal.`);
+}
