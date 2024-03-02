@@ -194,3 +194,6 @@ const string4 = new String("A String object");
 //Character Access
 //There are two ways to access an individual character in a string
 
+// First is the charAt() method.
+
+
