@@ -223,6 +223,8 @@ const areEqualInLowerCase = (str1, str2) =>
 console.log(areEqualInUpperCase("ß", "ss")); // true; should be false
 areEqualInLowerCase("ı", "I"); // false; should be true
 
+//split method
+//split a string into substrings using the specified separator and returns them as an array.
 
 
 
