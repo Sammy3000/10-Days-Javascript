@@ -226,5 +226,8 @@ areEqualInLowerCase("ı", "I"); // false; should be true
 //split method
 //split a string into substrings using the specified separator and returns them as an array.
 
+let names = 'sammy';
+let newname = names.split('')
+console.log(newname);
 
 
