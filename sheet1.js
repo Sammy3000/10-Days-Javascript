@@ -233,5 +233,9 @@ console.log(newname);
 //reverse and join methods
 // The reverse() method reverses the order of the elements in an array. 
 
+let reversedname = newname.reverse();
+console.log(reversedname);
+
+
 
 
