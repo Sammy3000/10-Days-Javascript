@@ -244,6 +244,15 @@ console.log(finalName);
 //This Keyword
 //A function's this keyword behaves a little differently in JavaScript compared to other languages. It also has some differences between strict mode and non-strict mode.
 
+let person = {
+   firstname:'sammy',
+   lastname:'towett',
+   age:26,
+   fullname:function(){
+    return `My name is ${this.firstname} ${this.lastname} and I am ${this.age} years old`
+   }
+
+}
 
 
 
