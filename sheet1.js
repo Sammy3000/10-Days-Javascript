@@ -253,6 +253,7 @@ let person = {
    }
 
 }
+console.log(person.fullname());
 
 
 
