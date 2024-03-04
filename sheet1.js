@@ -255,6 +255,16 @@ let person = {
 }
 console.log(person.fullname());
 
+const test = {
+  prop: 42,
+  func: function () {
+    return this.prop;
+  },
+};
+
+
+
+
 
 
 
