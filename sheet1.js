@@ -288,3 +288,14 @@ console.log(test.func());
 
 //JS ASYNC
 
+function myFirst() {
+  return("Hello");
+}
+
+function mySecond() {
+  return("Goodbye");
+}
+
+
+
+
