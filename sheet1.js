@@ -287,7 +287,7 @@ console.log(test.func());
 // console.log(myFunction());
 
 //JS ASYNC
-
+//JavaScript functions are executed in the sequence they are called. Not in the sequence they are defined.
 function myFirst() {
   return("Hello");
 }
