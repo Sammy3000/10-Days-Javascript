@@ -273,5 +273,9 @@ console.log(test.func());
 //Methods like call(), apply(), and bind() can refer this to any object.
 
 
+//NOTE:
+//this is not a variable. It is a keyword. You cannot change the value of this.
+
+
 
 
