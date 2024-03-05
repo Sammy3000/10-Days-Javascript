@@ -286,4 +286,5 @@ console.log(test.func());
 // }
 // console.log(myFunction());
 
+//JS ASYNC
 
