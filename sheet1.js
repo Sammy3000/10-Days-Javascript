@@ -280,5 +280,10 @@ console.log(test.func());
 //In a function, the global object is the default binding for this.
 //In a browser window the global object is [object Window]:
 
+//EXAMPLE
+// function myFunction() {
+//   return this;
+// }
+// console.log(myFunction());
 
 
