@@ -266,6 +266,8 @@ console.log(test.func());
 //In non–strict mode, this is always a reference to an object. In strict mode, it can be any value. For more information on how the value is determined, see the description below.
 
 //In an object method, this refers to the object.
+//Alone, this refers to the global object.
+//
 
 
 
