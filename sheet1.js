@@ -276,6 +276,9 @@ console.log(test.func());
 //NOTE:
 //this is not a variable. It is a keyword. You cannot change the value of this.
 
+//this in a Function (Default)
+//In a function, the global object is the default binding for this.
+//In a browser window the global object is [object Window]:
 
 
 
