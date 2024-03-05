@@ -296,6 +296,7 @@ function mySecond() {
   return("Goodbye");
 }
 
-
+console.log(mySecond());
+console.log(myFirst());
 
 
