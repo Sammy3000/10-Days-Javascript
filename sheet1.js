@@ -299,6 +299,7 @@ function mySecond() {
 // console.log(mySecond());
 // console.log(myFirst());
 
+// callback
 
 
 
