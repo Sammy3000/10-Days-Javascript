@@ -323,8 +323,12 @@ let myPromise = new Promise(function(myResolve, myReject) {
   );
 
   //JS promise object can be: Pending, rejected, fulfilled
+  //Promise.then() takes two arguments, a callback for success and another for failure.
   
-
+  myPromise.then(
+    function(value) { /* code if successful */ },
+    function(error) { /* code if some error */ }
+  );
 
 
 
