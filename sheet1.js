@@ -300,6 +300,11 @@ function mySecond() {
 // console.log(myFirst());
 
 // callback
+//A function that is passed as an argument within another function
+//The higher order function has an obligation to call that function
+
+
+
 
 
 
