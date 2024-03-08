@@ -307,6 +307,7 @@ function mySecond() {
 //Functions running in parallel with other functions are called asynchronous
 
 //JavaScript Promise Object
+//Promise · A “producing code” that does something and takes time. For instance, some code that loads the data over a network
 //A Promise contains both the producing code and calls to the consuming code:
 
 let myPromise = new Promise(function(myResolve, myReject) {
