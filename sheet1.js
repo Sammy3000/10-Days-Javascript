@@ -303,6 +303,10 @@ function mySecond() {
 //A function that is passed as an argument within another function
 //The higher order function has an obligation to call that function
 
+//ASYNCHRONOUS FUNCTIONS
+//Functions running in parallel with other functions are called asynchronous
+
+
 
 
 
