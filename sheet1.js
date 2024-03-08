@@ -306,6 +306,9 @@ function mySecond() {
 //ASYNCHRONOUS FUNCTIONS
 //Functions running in parallel with other functions are called asynchronous
 
+//JavaScript Promise Object
+//A Promise contains both the producing code and calls to the consuming code:
+
 
 
 
