@@ -335,7 +335,13 @@ let myPromise = new Promise(function(myResolve, myReject) {
 //"async and await make promises easier to write"
 
 
-
+async function myFunction() {
+  return "Hello";
+}
+myFunction().then(
+  function(value) {myDisplayer(value);},
+  function(error) {myDisplayer(error);}
+);
 
 
 
