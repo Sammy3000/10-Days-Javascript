@@ -322,6 +322,12 @@ let myPromise = new Promise(function(myResolve, myReject) {
     function(error) { /* code if some error */ }
   );
 
+  //JS promise object can be: Pending, rejected, fulfilled
+  
+
+
+
+
 
 
 
