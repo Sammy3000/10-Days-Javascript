@@ -330,6 +330,10 @@ let myPromise = new Promise(function(myResolve, myReject) {
     function(error) { /* code if some error */ }
   );
 
+// ASYNC/AWAIT
+//"async and await make promises easier to write"
+
+
 
 
 
