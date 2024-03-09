@@ -339,9 +339,11 @@ async function myFunction() {
   return "Hello";
 }
 myFunction().then(
-  function(value) {myDisplayer(value);},
-  function(error) {myDisplayer(error);}
+  function(value) {return(value);},
+  function(error) {return(error);}
 );
+console.log(myFunction());
+
 
 
 
