@@ -345,7 +345,7 @@ myFunction().then(
 console.log(myFunction());
 
 //Await Syntax
-
+//The await keyword can only be used inside an async function.
 
 
 
