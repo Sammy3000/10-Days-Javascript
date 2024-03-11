@@ -346,6 +346,8 @@ console.log(myFunction());
 
 //Await Syntax
 //The await keyword can only be used inside an async function.
+//The await keyword makes the function pause the execution and wait for a resolved promise before it continues:
+
 
 
 
