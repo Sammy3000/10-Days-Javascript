@@ -344,6 +344,9 @@ myFunction().then(
 );
 console.log(myFunction());
 
+//Await Syntax
+
+
 
 
 
