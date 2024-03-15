@@ -352,6 +352,8 @@ let value = await promise;
 
 
 //Waiting for a Timeout
+//When using the JavaScript function setTimeout(), you can specify a callback function to be executed on time-out:
+
 
 
 
