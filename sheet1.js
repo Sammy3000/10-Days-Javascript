@@ -360,6 +360,10 @@ function myFunction() {
   document.getElementById("demo").innerHTML = "I love You !!";
 }
 
+const helloFunctn = ()=> 'Hello guys'
+setTimeout(helloFunctn,2000)
+
+
 
 
 
