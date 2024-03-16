@@ -348,7 +348,7 @@ console.log(myFunction());
 //The await keyword can only be used inside an async function.
 //The await keyword makes the function pause the execution and wait for a resolved promise before it continues:
 
-let value = await promise;
+// let value = await promise;
 
 
 //Waiting for a Timeout
@@ -356,9 +356,9 @@ let value = await promise;
 
 setTimeout(myFunction, 3000);
 
-function myFunction() {
-  document.getElementById("demo").innerHTML = "I love You !!";
-}
+// function myFunction() {
+//   document.getElementById("demo").innerHTML = "I love You !!";
+// }
 
 const helloFunctn = ()=> 'Hello guys'
 setTimeout(helloFunctn,2000)
