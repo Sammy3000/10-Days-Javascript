@@ -363,6 +363,8 @@ setTimeout(myFunction, 3000);
 const helloFunctn = ()=> 'Hello guys'
 setTimeout(helloFunctn,2000)
 
+//A promise is an object returned by an asynchronous function, which represents the current state of the operation.
+
 
 
 
