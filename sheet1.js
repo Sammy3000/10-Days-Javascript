@@ -365,7 +365,8 @@ setTimeout(helloFunctn,2000)
 
 //A promise is an object returned by an asynchronous function, which represents the current state of the operation.
 
-//Dealing with Async Data
+//Dealing with Async Data - We make requests to the server mostly in JS and we don't want our programme to stop as we wait.
+
 
 
 
