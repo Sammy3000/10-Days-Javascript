@@ -367,6 +367,10 @@ setTimeout(helloFunctn,2000)
 
 //Dealing with Async Data - We make requests to the server mostly in JS and we don't want our programme to stop as we wait.
 
+//Test quiz
+// An arrow funxn to return a string
+
+const greet = human => `Hello ${human}`
 
 
 
