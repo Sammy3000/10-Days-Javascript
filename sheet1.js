@@ -372,7 +372,7 @@ setTimeout(helloFunctn,2000)
 
 const greet = human => `Hello ${human}`
 
-
+console.log(greet('Sammy'));
 
 
 
