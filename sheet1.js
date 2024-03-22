@@ -375,7 +375,8 @@ const greet = human => `Hello ${human}`
 console.log(greet('Sammy'));
 
 const posts = [
-  {title:'post one',body:'this is the first post'}
+  {title:'post one',body:'this is the first post'},
+  {title:'post two',body:'this is the second post'}
 ]
 
 
