@@ -342,6 +342,7 @@ myFunction().then(
   function(value) {return(value);},
   function(error) {return(error);}
 );
+
 console.log(myFunction());
 
 //Await Syntax
@@ -379,5 +380,8 @@ const posts = [
   {title:'post two',body:'this is the second post'}
 ]
 
+const postsResults = ()=>{
+  setInterval(posts.forEach(post=>post.title),2000)
+}
 
 
