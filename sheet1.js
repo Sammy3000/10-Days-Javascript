@@ -380,8 +380,8 @@ const posts = [
   {title:'post two',body:'this is the second post'}
 ]
 
-const postsResults = ()=>{
-  setInterval(posts.forEach(post=>post.title),2000)
+function postsResults(){
+  return posts.forEach(post=>post.title)
 }
 console.log(postsResults());
 
