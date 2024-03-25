@@ -383,5 +383,5 @@ const posts = [
 const postsResults = ()=>{
   setInterval(posts.forEach(post=>post.title),2000)
 }
-
+console.log(postsResults());
 
