@@ -381,7 +381,9 @@ const posts = [
 ]
 
 function postsResults(){
-  return posts.forEach(post=>post.title)
+  return posts.forEach((post)=>{
+    return post.title
+  })
 }
 console.log(postsResults());
 
