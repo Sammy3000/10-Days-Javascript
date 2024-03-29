@@ -387,3 +387,9 @@ const posts = [
 // }
 // console.log(postsResults());
 
+let newPosts = posts.map(
+  (post)=>{
+    return post.title
+  }
+)
+console.log(newPosts);
