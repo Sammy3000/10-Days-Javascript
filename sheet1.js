@@ -380,10 +380,10 @@ const posts = [
   {title:'post two',body:'this is the second post'}
 ]
 
-function postsResults(){
-  return posts.forEach((post)=>{
-    return post.title
-  })
-}
-console.log(postsResults());
+// function postsResults(){
+//   return posts.forEach((post)=>{
+//     return post.title
+//   })
+// }
+// console.log(postsResults());
 
