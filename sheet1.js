@@ -393,3 +393,6 @@ let newPosts = posts.map(
   }
 )
 console.log(newPosts);
+
+
+let games = [45,77,86,78,77,51,22,33,44,55];
