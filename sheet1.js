@@ -401,3 +401,5 @@ let findBest = games.find(game=>game>=80)
 console.log(findBest);
  
 let aboveAverage = games.filter(game=>game>=50)
+
+console.log(aboveAverage);
