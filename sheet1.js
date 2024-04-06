@@ -399,3 +399,5 @@ let games = [45,77,86,78,77,51,22,33,44,55];
  
 let findBest = games.find(game=>game>=80)
 console.log(findBest);
+ 
+let aboveAverage = games.filter(game=>game>=50)
